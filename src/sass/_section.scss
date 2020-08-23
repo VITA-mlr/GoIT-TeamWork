@@ -1,0 +1,12 @@
+section {
+  overflow-x: hidden;
+  padding: 84px 0px;
+
+  @media screen and (min-width: $tablet) {
+    padding: 100px 0px;
+  }
+
+  @media screen and (min-width: $desktop) {
+    padding: 130px 0px;
+  }
+}
